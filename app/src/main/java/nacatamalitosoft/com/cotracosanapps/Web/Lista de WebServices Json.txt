@@ -4,7 +4,8 @@ Para las fechas tienen que enviarse en el formato
 mm/dd/yyyy 
 
 Texto de confirmacion para probar los repositorios
-
+Preparando cambios
+Segundo cambio
 
 ==================================================
 	http://cotracosan.tk/ApiVehiculos
